@@ -1,5 +1,7 @@
 # detective browser
-a browser using duckduckgo
+
+Browser For Detective
+
 # feature:
 - [x] No Tracking Data
 - [x] Easy To Use
@@ -8,14 +10,12 @@ a browser using duckduckgo
 # pricing:
 detective browser is completely free
 # base:
-<details>
-<summary>Python</summary>
-<summary>PyQt5</summary>
-<summary>PyQtWebEngine</summary>
-<summary>DuckDuckGo</summary>
-</details>
+▸ Python<br />
+▸ PyQt5<br />
+▸ PyQtWebEngine<br />
+▸ DuckDuckGo<br />
 
-# Working OS
+# Working OS:
 Window        | Linux
 ------------- | -------------
 Window 10     | CentOS
