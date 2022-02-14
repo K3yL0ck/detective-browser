@@ -12,7 +12,16 @@ application name: detective browser
 base: python, PyQt5, duckduckgo
 price: free
 version: 0.1
-#Installation
+# Working OS
+Window        | Linux
+------------- | -------------
+Window 10     | CentOS
+Window 11     | Ubuntu
+
+# Installation
 window: double click on the application file name "Detective"
 ## Linux:
 note : i dont know if it work on other linux
+```terminal
+$ python3 setup.py
+```
