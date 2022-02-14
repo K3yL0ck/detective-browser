@@ -14,5 +14,5 @@ price: free
 version: 0.1
 #Installation
 window: double click on the application file name "Detective"
-## Ubuntu:
+## Linux:
 note : i dont know if it work on other linux
