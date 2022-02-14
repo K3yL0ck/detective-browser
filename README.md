@@ -7,11 +7,13 @@ a browser using duckduckgo
 - [x] Free VPN
 # pricing:
 detective browser is completely free
-# about:
-application name: detective browser
-base: python, PyQt5, duckduckgo
-price: free
-version: 0.1
+# base:
+<details>
+<summary>Python</summary>
+<p>PyQt5</p>
+<p>PyQtWebEngine</p>
+<p>DuckDuckGo</p>
+ </details>
 # Working OS
 Window        | Linux
 ------------- | -------------
