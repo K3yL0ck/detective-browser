@@ -29,5 +29,5 @@ note : i dont know if it work on other linux
 ```terminal
 $ python3 setup.py
 ```
-#Other:
-* [Downloads](hhttps://github.com/K3yL0ck/detective-browser/releases)<br />
+# Other:
+* [Downloads](https://github.com/K3yL0ck/detective-browser/releases)
