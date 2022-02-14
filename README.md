@@ -1,10 +1,10 @@
 # detective browser
 a browser using duckduckgo
 # feature:
-1. No Data Track
-2. Easy to Use
-3. Dark & Light Mode
-4. Free VPN
+- [x] No Tracking Data
+- [x] Easy To Use
+- [x] Dark & Light Mode
+- [x] Free VPN
 # pricing:
 detective browser is completely free
 # about:
