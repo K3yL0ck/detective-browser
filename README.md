@@ -31,3 +31,4 @@ $ python3 setup.py
 ```
 # Other:
 * [Downloads](https://github.com/K3yL0ck/detective-browser/releases)
+  * [VirusTotal](https://www.virustotal.com/gui/file/4c8a1a81def38e1cf63c9d6fdefbd0db1f8658cf9a9e717f6ee74709b7918281?nocache=1)
