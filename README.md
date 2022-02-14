@@ -10,10 +10,11 @@ detective browser is completely free
 # base:
 <details>
 <summary>Python</summary>
-<p>PyQt5</p>
-<p>PyQtWebEngine</p>
-<p>DuckDuckGo</p>
- </details>
+<summary>PyQt5</summary>
+<summary>PyQtWebEngine</summary>
+<summary>DuckDuckGo</summary>
+</details>
+
 # Working OS
 Window        | Linux
 ------------- | -------------
