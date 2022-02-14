@@ -22,11 +22,12 @@ Window 10     | CentOS
 Window 11     | Ubuntu
 
 # Installation
-Downloads Link: https://github.com/K3yL0ck/detective-browser/releases <br />
-## Window:
+### Window:
 double click on the application file name "Detective"
-## Linux:
+### Linux:
 note : i dont know if it work on other linux
 ```terminal
 $ python3 setup.py
 ```
+#Other:
+* [Downloads](hhttps://github.com/K3yL0ck/detective-browser/releases)<br />
