@@ -23,7 +23,8 @@ Window 11     | Ubuntu
 
 # Installation
 Downloads Link: https://github.com/K3yL0ck/detective-browser/releases <br />
-window: double click on the application file name "Detective"
+## Window:
+double click on the application file name "Detective"
 ## Linux:
 note : i dont know if it work on other linux
 ```terminal
